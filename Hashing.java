@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.HashMap;
 import java.util.TreeMap;
 import java.util.ArrayList;
-
+//hello my name is rohan 
 public class Hashing {
     //create a hassh map with alphabet as keys and the order does not matter however make each key have a binary search tree 
     private Map<Character, BST> hashMap = new HashMap<>(); // Hashmap with all the letters as keys and the binary search tree as values
